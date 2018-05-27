@@ -1,0 +1,5 @@
+eclipse.preferences.version=1
+encoding//src/main/java/com/ken/wms/recommender/MyItemBasedRecommender.java=UTF-8
+encoding//src/main/java/com/ken/wms/recommender/MySlopeOneRecommender.java=UTF-8
+encoding//src/main/resources/config/log4j.properties=UTF-8
+encoding//src/main/webapp/WEB-INF/jsp/mainPage.jsp=UTF-8
