@@ -1,0 +1,1 @@
+仓库管理系统（以自行车为例）技术选型：Spring+SpringMVC+Mybatis+Jsp+Shiro
